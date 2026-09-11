@@ -1,0 +1,18 @@
+{
+  "status": "PASS_LOCAL_PREVIEW_ONLY",
+  "screens": 28,
+  "componentDefinitions": 25,
+  "prototypeLinks": 167,
+  "checks": [
+    "all scene ids unique",
+    "all destinations exist",
+    "all components resolve",
+    "28 screens 412x892",
+    "no horizontal overflow",
+    "creation flow",
+    "no browser JS errors"
+  ],
+  "pending": [
+    "Execution and native screenshots inside the target Figma file"
+  ]
+}

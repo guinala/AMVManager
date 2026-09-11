@@ -1,0 +1,18 @@
+{
+  "status": "PASS_NAVIGATION_CONTRACT_SIMULATION",
+  "version": "0.2.2",
+  "screens": 28,
+  "reactions": 168,
+  "navigationButtons": 21,
+  "omittedSelfLinks": 15,
+  "checks": [
+    "library sources and self-links rejected",
+    "missing, nested and cross-page destinations rejected",
+    "every generated reaction targets a different screen on the same page",
+    "tab navigation connected inside each screen instance",
+    "active tab and active filter have no self-navigation",
+    "masters have no screen navigation",
+    "new-project flow and loading transition connected"
+  ],
+  "limits": "Local API contract simulation. Native Figma execution remains pending."
+}

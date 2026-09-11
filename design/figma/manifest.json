@@ -1,0 +1,10 @@
+{
+  "name": "AMV Manager · Importar interfaces",
+  "id": "amv-manager-local-design-import",
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "main": "code.js",
+  "ui": "ui.html",
+  "documentAccess": "dynamic-page",
+  "networkAccess": { "allowedDomains": ["none"] }
+}

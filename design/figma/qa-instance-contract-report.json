@@ -1,0 +1,15 @@
+{
+  "status": "PASS_INSTANCE_CONTRACT_SIMULATION",
+  "version": "0.2.2",
+  "checks": [
+    "reported transform error reproduced before any screen",
+    "28 screens and 25 components rendered without illegal descendant geometry writes",
+    "text overrides survive in nested instances",
+    "constraints defined on masters",
+    "partial page preserved and retry created",
+    "complete page reused without duplication",
+    "old v0.2 page preserved",
+    "Proyectos focused"
+  ],
+  "limits": "Simulation only. Does not validate Figma layout or native rendering."
+}
